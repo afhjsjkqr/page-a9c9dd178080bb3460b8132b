@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "53dc3bede9501787e8819b36",
+  "owner": "afhjsjkqr",
+  "repo": "page-a9c9dd178080bb3460b8132b",
+  "title": "Wink",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a9c9dd178080bb3460b8132b",
+      "a": "Wink",
+      "b": "稳定全球clash加速器",
+      "entity": "Wink",
+      "brand": "Wink",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "354933a0147b02b5b836e8a5a643b8a721c0317f77c3863aea6ea7bc489c78df",
+      "content": {
+        "primary_entity": "Wink",
+        "keyword1": "Wink",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_HERO_SUBTITLE": "Wink 稳定连接全球节点",
+          "AI_HERO_INTRO": "Wink 提供稳定的全球网络加速服务，适合需要访问海外流媒体、进行跨区协作或游戏加速的用户。通过 Clash 客户端订阅配置，Wink 可让多台设备在不同网络环境下获得流畅连接体验。",
+          "AI_VISUAL_TITLE": "Wink 全球加速",
+          "AI_HIGHLIGHT_1": "Clash 订阅配置便捷",
+          "AI_HIGHLIGHT_2": "多档套餐按需选择",
+          "AI_HIGHLIGHT_3": "支持多设备同时在线",
+          "AI_DESCRIPTION": "，Wink 为不同使用场景准备了基础版、旗舰版和团队版三档套餐，分别面向个人轻量使用、家庭多设备共享以及团队协作加速需求。选择时可根据每月流量、同时在线设备数量和节点类型综合判断，搭配主流 Clash 客户端完成订阅导入即可开始使用。",
+          "AI_FEATURES_TITLE": "Wink 套餐与配置要点",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路类型三个维度快速了解 Wink 套餐差异。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、旗舰版 300GB、团队版 1000GB，按实际用量匹配。",
+          "AI_FEATURE_TITLE_2": "按设备定版本",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版最多支持 20 台同时在线。",
+          "AI_FEATURE_TITLE_3": "按周期享优惠",
+          "AI_FEATURE_TEXT_3": "基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850，长期使用更划算。",
+          "AI_CLIENTS_TITLE": "选择适配的 Clash 客户端",
+          "AI_CLIENTS_INTRO": "Clash 客户端可在 Windows、macOS、Android、iOS 和路由器等设备上运行，按实际系统选择对应版本并导入 Wink 订阅。",
+          "AI_PLANS_TITLE": "Wink 套餐对比",
+          "AI_PLANS_INTRO": "基础版适合个人日常使用，旗舰版增加 IPLC 专线与流媒体解锁，团队版提供高带宽节点和定制路由。",
+          "AI_GUIDE_TITLE": "三步完成 Wink 使用配置",
+          "AI_GUIDE_INTRO": "先确认设备数量与流量需求，再选择套餐并导入 Clash 订阅。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_1": "根据设备数量、月流量和线路偏好，在基础版、旗舰版或团队版中选定合适方案。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认当前设备系统与 Clash 客户端版本是否满足订阅导入条件。",
+          "AI_STEP_TITLE_3": "依客户端配置订阅",
+          "AI_STEP_TEXT_3": "在 Clash 客户端中添加 Wink 订阅地址，更新节点后即可开始加速连接。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "开始 Wink 加速",
+          "AI_CLOSING_TEXT": "根据设备与流量需求选择套餐，导入 Clash 订阅，连接全球节点。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "Wink 套餐之间主要差别是什么？",
+          "AI_FAQ_ANSWER_1": "主要差别在每月流量、同时在线设备数以及线路等级。基础版 100GB、3 台设备；旗舰版 300GB、5 台设备并含 IPLC 专线；团队版 1000GB、20 台设备。",
+          "AI_FAQ_QUESTION_2": "一个订阅可以几个人一起用？",
+          "AI_FAQ_ANSWER_2": "按同时在线设备数计算，基础版 3 台、旗舰版 5 台、团队版 20 台。多人共用时建议按总设备数选择，避免超出同时在线限制。",
+          "AI_FAQ_QUESTION_3": "年付和月付价格差多少？",
+          "AI_FAQ_ANSWER_3": "基础版月付 ¥15、年付 ¥150/年；旗舰版月付 ¥35、年付 ¥350/年；团队版月付 ¥85、年付 ¥850/年。年付相当于节省约两个月费用。",
+          "AI_FAQ_QUESTION_4": "订阅导入客户端后需要额外设置吗？",
+          "AI_FAQ_ANSWER_4": "导入订阅链接后，一般按客户端文档选择节点与代理模式即可。不同系统客户端界面有差异，以所用客户端的配置说明为准。",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB 流量、20 台设备同时在线，并含 VIP 专属高带宽节点与企业定制路由，适合小型团队或多终端家庭集中使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kqy4sc0nysg9s2a.com",
+    "host": "xn--9kqy4sc0nysg9s2a.com"
+  },
+  "file_hashes": {
+    "index.html": "e2f19545fa72c9f01cbc40a717cd16206ea7f32ae096265690016b67143417bc",
+    "sitemap.xml": "be68b74bea95f5472613b53514a4ddd95ad90c91706917385c0aad5f97e15d03",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4672847533bf5349dde5405a65a94dabc7e8f83187ba1f0f3210262fe3e30af1",
+    "robots.txt": "69f8c245dd684cb10fb3a0c744534b2ed180a333b78709a3394dd83d0bfe9a79",
+    "cf973c4873de65266544efc885be9829.txt": "87fccd17810c69f6c00a80c78dfde8e7d190610385f8b25fdd60a4d84f7306cf"
+  },
+  "revision": "d3ac7a4ff373b901303d3ea9b6d99412b7eeb9d8d860703fa3748571a6c315e7"
+}
